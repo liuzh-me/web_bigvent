@@ -1,5 +1,5 @@
 $(function () {
-    var form = lay.form
+    var form = layui.form
 
     form.verify({
         pwd: [
